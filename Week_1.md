@@ -49,3 +49,6 @@ Simulation infrastructure is reusable. The current framework can be extended to 
 - Extract model definition, assumptions ,allocation and payment rules.
 - Reproduce baseline model in code
 - Attempt simulation of the simplest version of that model
+
+# References
+- Levin Jonathan, Vickrey-Clarke-Groves Mechanisms, Stanford Economics 285, 2009 Ghttps://web.stanford.edu/~jdlevin/Econ%20285/Vickrey%20Auction.pdf
